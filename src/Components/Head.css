@@ -1,0 +1,24 @@
+
+.logo {
+    margin-left: 20px;
+    display: flex;
+}
+.logoname {
+    padding-left: 20px;
+    color: red;
+    font-variant: normal;
+}
+.search {
+    margin-left: 150px;
+    position:relative;
+    width: 500px;
+}
+.notification {
+    padding-left: 300px;
+}
+.Box{
+    padding: 20px 300px 20px 400px;
+}
+.head{
+    position: relative;
+}
